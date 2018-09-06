@@ -186,7 +186,7 @@ h1{
     display: inline-block;
     vertical-align: text-bottom;
 }
-input[type=text], [type=password] {
+input[type=text], [type=password], [type=tel] {
     width: 100%;
     padding: 12px 20px;
     margin: 8px 0;
